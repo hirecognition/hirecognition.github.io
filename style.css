@@ -61,14 +61,6 @@ h1 {
   text-decoration: none;
 }
 
-.logo {
-  max-width: 100px;
-  height: 100px;
-  display: block;
-  margin: 0 auto 1rem auto;
-  opacity: 0.9;
-}
-
 footer {
   text-align: center;
   margin-top: 3rem;
