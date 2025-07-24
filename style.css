@@ -6,6 +6,12 @@ body {
   line-height: 1.6;
 }
 
+.logo {
+  max-width: 180px;
+  display: block;
+  margin: 0 auto 1rem auto;
+}
+
 .container {
   max-width: 800px;
   margin: 0 auto;
